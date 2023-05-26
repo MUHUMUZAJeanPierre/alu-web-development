@@ -3,21 +3,26 @@ body {
     flex-direction: column;
     background-color: darkolivegreen;
     font-style: italic;
-    font-size: 20px; }
+    font-size: 20px; 
+}
 
 .logo { height: 50px;
         width: 50px;
-    font-size: larger; }
+    font-size: larger; 
+}
  
 main {
     display: flex;
     flex-direction: row;
-    flex: auto; }
+    flex: auto; 
+}
 
 article {
     flex: 2;
-    overflow: auto; }
+    overflow: auto; 
+}
 
 aside {
     flex: 1;
-    overflow: auto; }
+    overflow: auto;
+ }
